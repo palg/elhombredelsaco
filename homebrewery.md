@@ -41,14 +41,16 @@
 	
 \page
 # Introducción
-Esta historia es una adaptación al rol de unos sucesos acaecidos en 1910 en la provincia de Almería y que dieron lugar a la leyenda del hombre del saco o “sacamantecas” como se le conoce en la zona.
+Esta historia es una adaptación al rol de unos sucesos acaecidos en 1910 en la provincia de Almería y que dieron lugar a la leyenda del hombre del saco o “sacamantecas” como se le conoce en la zona. 
+
+Aunque la mayoría de personajes y hechos narrados coinciden con la realidad, algunos otros han sido alterados o modificados con el objetivo de dotar a la historia de mayor jugabilidad.
 
 La historia se desarrolla entre las poblaciones de Rioja y Gádor durante el día 7 de octubre de 1910, festividad de la Virgen del Rosario, patrona de Rioja.
 	
 Esta historia puede jugarse con cualquier sistema de rol. Dado el carácter principalmente narrativo de la misma se recomienda jugar con un sistema sencillo como Cthulhu Oscuro. 
 
 ### Aviso de seguridad 
-El contenido de esta historia no es apto para menores de 18 años y trata temas sensibles como el secuestro y asesinato de un menor, la realización de rituales violentos y los problemas mentales.
+Esta historia es de misterio y terror. El contenido no es apto para menores de 18 años y trata temas sensibles como el secuestro y asesinato de un menor, la realización de rituales violentos y los problemas mentales.
 
 ### Personajes jugadores (PJs)
 Los jugadores interpretarán a niños, entre 10 y 14 años, todos amigos que viven en Rioja.
