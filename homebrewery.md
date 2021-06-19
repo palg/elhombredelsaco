@@ -1,11 +1,10 @@
 <style>
   .phb#p1{ text-align:center; }
   .phb#p1:after{ display:none; }
-</style>
-
-<div style='margin-top:450px;'></div>
-
-<style>
+  .phb{
+    width : 210mm;
+    height : 296.8mm;
+  }
   .title h1, h2, h3, h4, h5 {
     color: #ffffff;
   }
@@ -14,6 +13,8 @@
     color: #ffffff;
   }
 </style>
+
+<div style='margin-top:450px;'></div>
 
 <blank>
 
@@ -31,7 +32,7 @@
 
 <img 
   src='https://c.wallhere.com/photos/0a/6c/portrait_display_nature_trees_forest_fire_wood_leaves_dark-75585.jpg!d' 
-  style='position:absolute; top:-250px; left:0px; width:880px' />
+  style='position:absolute; top:-195px; left:0px; width:880px' />
 	
 <img 
   src='https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png' 
@@ -295,7 +296,7 @@ Cuando los jugadores están dentro del río, y por lo tanto no ven lo que hay al
 	
 <img 
   src='https://i.postimg.cc/wx49mDx2/rio.jpg' 
-  style='width:300px;height:440px;margin-top:4px;margin-bottom:0px' />
+  style='width:300px;height:440px;margin-top:10px;margin-bottom:0px' />
 	
 
 Conforme se acercan, verán que se trata de un hombre joven, con rasgos raros y que en ese momento repara en ellos. Está de pie, sucio, parado, inexpresivo, con la mirada fija en ellos, con la cara llena de arañados. Lleva en una mano una escopeta reluciente y nueva (en contraste con lo sucio que va el hombre) y en la otra mano, un pájaro pía intentando escapar.
@@ -431,10 +432,11 @@ El mensaje de Francisco Leona ya les debe de poner en sobre aviso de que posible
 Si lo jugadores finalmente deciden volver a la barbería se la encontrarán cerrada a cal y canto, por lo que tendrán que buscar la manera de colarse. ¿Quizás una ventana abierta?
 
 El edificio tiene una única planta y varias habitaciones.
-	
+<div>
 <img 
   src='https://i.postimg.cc/0NwHgSM0/map.png' 
-  style='width:295px;margin-top:10px;margin-bottom:0px' />
+  style='width:310px;margin-top:10px;margin-bottom:10px' />
+	</div>
 
 |  |  |  |
 |:----:|:-------------:|:--|
