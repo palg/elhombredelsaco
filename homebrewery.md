@@ -74,14 +74,14 @@ A modo de recomendación, es interesante que cada jugador conteste el siguiente 
  
 Esto te permitirá añadir situaciones y PNJs a la historia con un toque más personal y profundo.
 
+```
+```
+
 ### Personajes No Jugadores (PNJs)
 
 A continuación, se describen los PNJs más relevantes de la historia. Se recomienda crear algunos PNJs más que estén relacionados con los trasfondos de los PJs y que puedan servir de apoyo o dificultar a los PJs tanto en Gádor como en Rioja.
 
-```
-```
-
-### Francisco Ortega, "El moruno”
+#### Francisco Ortega, "El moruno”
 
 <img 
   src='https://i.imgur.com/C9kivoW.jpg' 
@@ -96,7 +96,7 @@ Enfermo de tuberculosis pulmonar (tísico), acude inicialmente a Agustina “La 
  * Trabaja como aparcero del cortijo "El Carmen". 
  * Vive en Gádor.
 
-### Bernardo
+#### Bernardo
 
 <img 
   src='https://i.imgur.com/aXEvGEL.jpg' 
@@ -104,7 +104,7 @@ Enfermo de tuberculosis pulmonar (tísico), acude inicialmente a Agustina “La 
 	
 7 años de edad y hermano de uno de los PJs. Es secuestrado esa mañana por Francisco Leona y Julio “El loco” para llevar a cabo un ritual de sanación. Vive en Rioja.
 
-### Agustina Rodríguez “La curandera”
+#### Agustina Rodríguez “La curandera”
 
 <img 
   src='https://i.postimg.cc/FsYwNvhF/curandera.jpg' 
@@ -125,7 +125,7 @@ Durante un tiempo ha estado tratando la enfermedad de “El moruno” sin mucho 
 </div>
 
 	
-### Francisco Leona
+#### Francisco Leona
 
 <img 
   src='https://i.postimg.cc/9FsKfkfd/leona.jpg' 
@@ -147,7 +147,7 @@ Practica el curanderismo y otras artes que le han granjeado la fama de hombre si
 
 
 	
-### Julio “El loco”
+#### Julio “El loco”
 	
 <img 
   src='https://i.postimg.cc/7h54FTBw/loco.png' 
@@ -158,7 +158,7 @@ Julio “El loco”, apodado así por tener un comportamiento extraño, resultad
  * Disfruta mordiendo y arrancándole la cabeza a los pájaros.
  * Colabora con Francisco Leona en la ejecución del plan. 
 
-### Antonia López
+#### Antonia López
 
 <img 
   src='https://i.postimg.cc/DZyncNLW/antonia.jpg' 
@@ -171,7 +171,7 @@ Esposa de “El moruno”. Es muy supersticiosa y es quien empujó a su marido a
 
 \page
 	
-### Antonio Leona
+#### Antonio Leona
 
 <img 
   src='https://i.postimg.cc/5071KmSs/boticario.png' 
@@ -181,7 +181,7 @@ Es el sobrino de Francisco Leona. Ejerce de boticario y de juez en Gádor.
 
 ```
 
-### María Sánchez
+#### María Sánchez
 	
 <img 
   src='https://i.postimg.cc/BbR34QyD/maria.png' 
