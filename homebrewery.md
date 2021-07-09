@@ -609,21 +609,28 @@ En base a lo que ocurra en la historia podemos definir varios finales:
  * Bernardo no consigue volver vivo: La última escena es una entrada triste en el pueblo, llevando al cadáver el volandas como si de una procesión de la muerte se tratase, esa misma noche, mientras la gente, que estaba bailando en las fiestas, comienza a dejar de bailar y a mirarlos a ellos.
 
 # Más información
-<div class="wide">
+
+### Fuentes
+ * El crimen de Gádor estudio antropo-sociológico (1911) - Vazquez Santisteban, José
+ * El hombre del saco - Milagros Soler Cervantes
+ * El crimen de Gádor - Toto García Noguera
+ * Diversos fragmentos de prensa de la época
+
 ### Imágenes utilizadas
+ * Silueta, de, cueva, durante, ocaso (modificada): https://www.freepik.es/foto-gratis/silueta-cueva-ocaso_13070155.htm
+ * Cueva con nieve durante el día (modificada): https://www.freepik.es/foto-gratis/cueva-nieve-dia_12687080.htm
+ * Old pharmacy shelves in exposition History of pharmacies in Kuks Hospital in Kuks, Trutnov Distric: https://commons.wikimedia.org/wiki/File:Old_pharmacy_shelves_in_exposition_History_of_pharmacies_in_Kuks_Hospital_in_Kuks,_Trutnov_District.jpg
+ * Cabaña de agricultores en un entorno mágico en la subida de la colina: https://www.freepik.es/foto-gratis/cabana-agricultores-entorno-magico-subida-colina_14807241.htm
+	
+### Colaboración
+Si deseas enviar correcciones o colaborar con esta obra, puedes hacerlo a través de <a rel="contribuir" href="https://github.com/palg/elhombredelsaco/">GitHub</a> o contactar conmigo a través de <a rel="twitter" href="https://www.twitter.com/yopablotv/">Twitter</a>
+
+<div class="wide">
 </div>
-
-___
-___
-> **Silueta, de, cueva, durante, ocaso (modificada)**: https://www.freepik.es/foto-gratis/silueta-cueva-ocaso_13070155.htm
-> **Cueva con nieve durante el día (modificada)**: https://www.freepik.es/foto-gratis/cueva-nieve-dia_12687080.htm
-> **Old pharmacy shelves in exposition History of pharmacies in Kuks Hospital in Kuks, Trutnov Distric**: https://commons.wikimedia.org/wiki/File:Old_pharmacy_shelves_in_exposition_History_of_pharmacies_in_Kuks_Hospital_in_Kuks,_Trutnov_District.jpg
-> **Cabaña de agricultores en un entorno mágico en la subida de la colina**: https://www.freepik.es/foto-gratis/cabana-agricultores-entorno-magico-subida-colina_14807241.htm
-
 <div class="wide">
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">licencia de Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional</a>.
 </div>
-<a rel="errors" href="https://github.com/palg/elhombredelsaco/">Notificar corrección</a>
+<div class="wide">Obra maquetada usando <a href="https://homebrewery.naturalcrit.com/">NaturalCrit de The Homebrewery</a>. Pablo López. Granada, 2021</div>
 
 <div class='footnote'>EL HOMBRE DEL SACO</div>
 <div class='pageNumber'>11</div>
