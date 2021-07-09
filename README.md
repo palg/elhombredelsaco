@@ -7,5 +7,7 @@ Para contribuir necesitas una cuenta de GitHub (es gratuita):
  * Selecciona la opción "Create a new branch for this commit and start a pull request"
  * Pulsa "Propose changes". En cuanto valide los cambios quedarán guardados.
 
+También puedes proponer una corrección directamente creando un ticket en la sección Issues.
+
 Si necesitas contactar conmigo puedes hacerlo a través de https://twitter.com/yopablotv
 
