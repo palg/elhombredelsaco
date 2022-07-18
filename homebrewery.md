@@ -36,7 +36,7 @@
 	
 <img 
   src='https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png' 
-  style='position:absolute; bottom:20px; right:20px' />
+  style='position:absolute; bottom:20px; left:20px' />
 
 	
 \page
