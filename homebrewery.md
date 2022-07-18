@@ -230,7 +230,7 @@ En esta historia, Bernardo, un niño de 7 años es secuestrado por el barbero de
  **Tiempo:** La historia comienza con un día muy soleado
 </div>
 	
-Rioja, 7 de octubre de 2010, temprano por la mañana. Las calles del pueblo están completamente engalanadas preparadas para la celebración de la patrona, la Virgen del Rosario. 
+Rioja, 7 de octubre de 1910, temprano por la mañana. Las calles del pueblo están completamente engalanadas preparadas para la celebración de la patrona, la Virgen del Rosario. 
 
 Conforme cruzamos el pueblo vemos que, a pesar de haber amanecido ya, las calles están prácticamente desiertas, en parte por lo ocupadas que están sus gentes preparando un día tan grande, en parte porque muchos han aprovechado la mañana libre para acercarse a la capital.
 
